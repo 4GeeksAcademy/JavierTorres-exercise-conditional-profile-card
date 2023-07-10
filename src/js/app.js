@@ -6,8 +6,8 @@ import "../style/index.css";
  * 
     {
         includeCover: true, // if includeCover is true the algorithm should
-        background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da", // this is the url of the image that will used as background for the profile cover
-        avatarURL: "https://randomuser.me/api/portraits/women/42.jpg", // this is the url for the profile avatar
+        background: "https://t4.ftcdn.net/jpg/01/26/60/17/360_F_126601722_dLhuMAlekhhZoWHBknasvOYzgcJjz7YT.jpg", // this is the url of the image that will used as background for the profile cover
+        avatarURL: "https://us.123rf.com/450wm/ajiwaluyo/ajiwaluyo2208/ajiwaluyo220800264/190008066-panda-sitting-excited-cute-creative-kawaii-cartoon-mascot-logo.jpg?ver=6", // this is the url for the profile avatar
         socialMediaPosition: "left", // social media bar position (left or right)
         
         twitter: null, // social media usernames
@@ -68,9 +68,11 @@ window.onload = function() {
     // if includeCover is true the algorithm should
     includeCover: true,
     // this is the url of the image that will used as background for the profile cover
-    background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
+    background:
+      "https://t4.ftcdn.net/jpg/01/26/60/17/360_F_126601722_dLhuMAlekhhZoWHBknasvOYzgcJjz7YT.jpg",
     // this is the url for the profile avatar
-    avatarURL: "https://randomuser.me/api/portraits/women/42.jpg",
+    avatarURL:
+      "https://us.123rf.com/450wm/ajiwaluyo/ajiwaluyo2208/ajiwaluyo220800264/190008066-panda-sitting-excited-cute-creative-kawaii-cartoon-mascot-logo.jpg?ver=6",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
